@@ -1,9 +1,11 @@
 # Toko-buah
 
-## 📸 Screenshot
-![Login UI](./Screenshot%20(2025-11-19 214915).png)
-![Login UI](./Screenshot%20(2025-11-19 215016).png)
-![Login Sukses](./Screenshot 2025-11-19 215054.png)
+## 📸 Screenshots
+
+![Login UI](./Screenshot%202025-11-19%20214915.png)  
+![Dashboard](./Screenshot%202025-11-19%20215016.png)  
+![Quiz Dimulai](./Screenshot%202025-11-19%20215054.png)
+
 ---
 
 Made for: Universitas Teknologi Bandung
